@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Marea/static/css/main.4aaafd20.css",
-    "main.js": "/Marea/static/js/main.5ba76870.js",
-    "static/media/drink13.png": "/Marea/static/media/drink13.0c6ddfe3e72042998216.png",
-    "static/media/drink10.png": "/Marea/static/media/drink10.c125c670902377cdee77.png",
-    "static/media/drink4.png": "/Marea/static/media/drink4.62670c4a4ad1de271d6a.png",
-    "static/media/drink11.png": "/Marea/static/media/drink11.d5fdcde248216293da31.png",
-    "static/media/product3.png": "/Marea/static/media/product3.fa00a56093cf4434ad33.png",
-    "static/media/avatar2.png": "/Marea/static/media/avatar2.7d32c3af94b2c9794656.png",
-    "static/media/drink8.png": "/Marea/static/media/drink8.e0759f3528bd83377ed6.png",
-    "static/media/avatar1.png": "/Marea/static/media/avatar1.53fc2de69082d87c799e.png",
-    "static/media/drink3.png": "/Marea/static/media/drink3.e968a0e436fe5fc8095e.png",
-    "static/media/me.png": "/Marea/static/media/me.2aee7d710a6084e1acee.png",
-    "static/media/product2.png": "/Marea/static/media/product2.32c5a17db4999d506f03.png",
-    "static/media/postre2.png": "/Marea/static/media/postre2.af7fc62641f9862d4c13.png",
-    "index.html": "/Marea/index.html",
-    "main.4aaafd20.css.map": "/Marea/static/css/main.4aaafd20.css.map",
-    "main.5ba76870.js.map": "/Marea/static/js/main.5ba76870.js.map"
+    "main.css": "/MareaBartenders/static/css/main.4aaafd20.css",
+    "main.js": "/MareaBartenders/static/js/main.68975f77.js",
+    "static/media/drink13.png": "/MareaBartenders/static/media/drink13.0c6ddfe3e72042998216.png",
+    "static/media/drink10.png": "/MareaBartenders/static/media/drink10.c125c670902377cdee77.png",
+    "static/media/drink4.png": "/MareaBartenders/static/media/drink4.62670c4a4ad1de271d6a.png",
+    "static/media/drink11.png": "/MareaBartenders/static/media/drink11.d5fdcde248216293da31.png",
+    "static/media/product3.png": "/MareaBartenders/static/media/product3.fa00a56093cf4434ad33.png",
+    "static/media/avatar2.png": "/MareaBartenders/static/media/avatar2.7d32c3af94b2c9794656.png",
+    "static/media/drink8.png": "/MareaBartenders/static/media/drink8.e0759f3528bd83377ed6.png",
+    "static/media/avatar1.png": "/MareaBartenders/static/media/avatar1.53fc2de69082d87c799e.png",
+    "static/media/drink3.png": "/MareaBartenders/static/media/drink3.e968a0e436fe5fc8095e.png",
+    "static/media/me.png": "/MareaBartenders/static/media/me.2aee7d710a6084e1acee.png",
+    "static/media/product2.png": "/MareaBartenders/static/media/product2.32c5a17db4999d506f03.png",
+    "static/media/postre2.png": "/MareaBartenders/static/media/postre2.af7fc62641f9862d4c13.png",
+    "index.html": "/MareaBartenders/index.html",
+    "main.4aaafd20.css.map": "/MareaBartenders/static/css/main.4aaafd20.css.map",
+    "main.68975f77.js.map": "/MareaBartenders/static/js/main.68975f77.js.map"
   },
   "entrypoints": [
     "static/css/main.4aaafd20.css",
-    "static/js/main.5ba76870.js"
+    "static/js/main.68975f77.js"
   ]
 }
