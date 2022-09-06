@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Marea/static/css/main.eb636d3e.css",
-    "main.js": "/Marea/static/js/main.63d934e5.js",
+    "main.css": "/Marea/static/css/main.4aaafd20.css",
+    "main.js": "/Marea/static/js/main.5ba76870.js",
     "static/media/drink13.png": "/Marea/static/media/drink13.0c6ddfe3e72042998216.png",
     "static/media/drink10.png": "/Marea/static/media/drink10.c125c670902377cdee77.png",
     "static/media/drink4.png": "/Marea/static/media/drink4.62670c4a4ad1de271d6a.png",
@@ -15,11 +15,11 @@
     "static/media/product2.png": "/Marea/static/media/product2.32c5a17db4999d506f03.png",
     "static/media/postre2.png": "/Marea/static/media/postre2.af7fc62641f9862d4c13.png",
     "index.html": "/Marea/index.html",
-    "main.eb636d3e.css.map": "/Marea/static/css/main.eb636d3e.css.map",
-    "main.63d934e5.js.map": "/Marea/static/js/main.63d934e5.js.map"
+    "main.4aaafd20.css.map": "/Marea/static/css/main.4aaafd20.css.map",
+    "main.5ba76870.js.map": "/Marea/static/js/main.5ba76870.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb636d3e.css",
-    "static/js/main.63d934e5.js"
+    "static/css/main.4aaafd20.css",
+    "static/js/main.5ba76870.js"
   ]
 }
