@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MareaBartenders/static/css/main.4aaafd20.css",
-    "main.js": "/MareaBartenders/static/js/main.68975f77.js",
+    "main.js": "/MareaBartenders/static/js/main.8e762b89.js",
     "static/media/drink13.png": "/MareaBartenders/static/media/drink13.0c6ddfe3e72042998216.png",
     "static/media/drink10.png": "/MareaBartenders/static/media/drink10.c125c670902377cdee77.png",
     "static/media/drink4.png": "/MareaBartenders/static/media/drink4.62670c4a4ad1de271d6a.png",
@@ -16,10 +16,10 @@
     "static/media/postre2.png": "/MareaBartenders/static/media/postre2.af7fc62641f9862d4c13.png",
     "index.html": "/MareaBartenders/index.html",
     "main.4aaafd20.css.map": "/MareaBartenders/static/css/main.4aaafd20.css.map",
-    "main.68975f77.js.map": "/MareaBartenders/static/js/main.68975f77.js.map"
+    "main.8e762b89.js.map": "/MareaBartenders/static/js/main.8e762b89.js.map"
   },
   "entrypoints": [
     "static/css/main.4aaafd20.css",
-    "static/js/main.68975f77.js"
+    "static/js/main.8e762b89.js"
   ]
 }
